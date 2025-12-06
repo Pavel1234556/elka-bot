@@ -8,7 +8,7 @@ from telegram.ext import (
 )
 
 # ВАЖНО: ЗАМЕНИТЕ ЭТОТ ТОКЕН НА СВОЙ ПОСЛЕ РЕГИСТРАЦИИ НОВОГО БОТА!
-TOKEN = "ВАШ_НОВЫЙ_ТОКЕН_ТУТ"
+TOKEN = 7713828114:AAExMZAdoCscjzQYqyiHDI0Z7PXOAIs4u3E
 
 # Настройка логирования
 logging.basicConfig(
